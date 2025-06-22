@@ -1,4 +1,4 @@
-# Nonu Ecommerce
+# Ecommerce
 
 A modern, full-stack ecommerce application built with Spring Boot and React.
 
